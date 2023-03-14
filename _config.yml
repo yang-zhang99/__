@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: 个人博客
 subtitle:
 description: 静心 独立 相信 真诚
 author: Yang99
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/avatar.jpg
 
 # Table Of Contents in the Sidebar
 toc:
